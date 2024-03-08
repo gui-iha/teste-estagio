@@ -1,0 +1,5 @@
+1º ligar o primeiro interruptor, ir a sala 1, caso esteja aceso, o interriputor 1 corresponde a sala1, 
+voltar e ligar o interruptor 2 e ir a sala 2, caso esteja aceso o interruptor 2 corresponde a sala 2 
+caso esteja apagado corresponde a sala 3.
+
+2º ligar o interruptor 1 e ir para a sala 1 , caso esteja apagado, voltar 
